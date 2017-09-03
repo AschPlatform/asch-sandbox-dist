@@ -1,0 +1,1 @@
+"use strict";var bignum=require("bignumber");module.exports={validate:function(e){if("string"!=typeof e)return"Invalid amount type";if(-1!=e.indexOf("."))return"Amount should be integer";var n;try{n=bignum(e)}catch(e){return"Amount should be number"}return n.lt(1)||n.gt("1e48")?"Invalid amount range":null}};

@@ -1,0 +1,1 @@
+"use strict";module.exports={PIFY:function(n,r){return function(){for(var t=arguments.length,e=Array(t),o=0;o<t;o++)e[o]=arguments[o];return new Promise(function(t,o){n.apply(r,[].concat(e,[function(n,r){return n?o(n):t(r)}]))})}}};
