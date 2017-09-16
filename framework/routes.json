@@ -68,5 +68,10 @@
 		"path": "/blocks/count",
 		"method": "get",
 		"handler": "blockchain.blocks.count"
+	},
+	{
+		"path": "/blocks/votes",
+		"method": "post",
+		"handler": "blockchain.blocks.votes"
 	}
 ]

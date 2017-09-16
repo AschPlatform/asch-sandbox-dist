@@ -14,6 +14,7 @@
   "api/transport": "./api/transport.js",
   "logic/block": "./logic/block.js",
   "logic/transaction": "./logic/transaction.js",
+  "logic/consensus": "./logic/consensus.js",
   "blockchain/accounts": "./blockchain/accounts.js",
   "blockchain/blocks": "./blockchain/blocks.js",
   "blockchain/round": "./blockchain/round.js",
