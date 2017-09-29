@@ -1,7 +1,6 @@
 {
   "api/accounts": "./api/accounts.js",
   "api/blocks": "./api/blocks.js",
-  "api/contacts": "./api/contacts.js",
   "api/crypto": "./api/crypto.js",
   "api/dapps": "./api/dapps.js",
   "api/delegates": "./api/delegates.js",
@@ -9,7 +8,6 @@
   "api/multisignatures": "./api/multisignatures.js",
   "api/peer": "./api/peer.js",
   "api/signatures": "./api/signatures.js",
-  "api/sql": "./api/sql.js",
   "api/transactions": "./api/transactions.js",
   "api/transport": "./api/transport.js",
   "logic/block": "./logic/block.js",
