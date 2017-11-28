@@ -13,7 +13,8 @@
     "babel-runtime": "^6.26.0",
     "bignumber": "https://github.com/AschPlatform/bignumber/tarball/master",
     "change-case": "3.0.0",
-    "json-sql": "https://github.com/AschPlatform/json-sql/tarball/master"
+    "json-sql": "https://github.com/AschPlatform/json-sql/tarball/master",
+    "tracer": "^0.8.11"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
