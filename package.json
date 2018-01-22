@@ -14,7 +14,8 @@
     "bignumber": "https://github.com/AschPlatform/bignumber/tarball/master",
     "change-case": "3.0.0",
     "json-sql": "https://github.com/AschPlatform/json-sql/tarball/master",
-    "tracer": "^0.8.11"
+    "tracer": "^0.8.11",
+    "validate.js": "^0.12.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
