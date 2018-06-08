@@ -2,7 +2,7 @@
   "api/accounts": "./api/accounts.js",
   "api/blocks": "./api/blocks.js",
   "api/crypto": "./api/crypto.js",
-  "api/dapps": "./api/dapps.js",
+  "api/chains": "./api/chains.js",
   "api/delegates": "./api/delegates.js",
   "api/loader": "./api/loader.js",
   "api/multisignatures": "./api/multisignatures.js",

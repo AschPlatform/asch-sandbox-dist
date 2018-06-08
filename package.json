@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "babel-runtime": "^6.26.0",
+    "better-sqlite3": "^4.1.0",
     "bignumber": "https://github.com/AschPlatform/bignumber/tarball/master",
     "change-case": "3.0.0",
     "json-sql": "https://github.com/AschPlatform/json-sql/tarball/master",
