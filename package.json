@@ -1,6 +1,6 @@
 {
   "name": "asch-sandbox",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "description": "asch sandbox which is used to run sidechain dapps",
   "main": "index.js",
   "scripts": {
