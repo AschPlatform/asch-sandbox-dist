@@ -1,1 +1,1 @@
-"use strict";var private_={},self=null,library=null,modules=null;function Generator(e,l){library=l,e(null,self=this)}Generator.prototype.onBind=function(e){modules=e},module.exports=Generator;
+"use strict";var private_={},self=null,library=null,modules=null;function Generator(e,r){self=this,library=r,app.logger.info("-----in generator"),e(null,self)}Generator.prototype.onBind=function(e){modules=e},module.exports=Generator;
